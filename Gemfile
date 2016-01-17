@@ -7,7 +7,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'handlebars_assets', github: 'tjgrathwell/handlebars_assets', branch: 'sprockets-register-transformers'
 gem 'jbuilder', '~> 2.0'
 gem 'jquery-rails'
-gem 'mysql2'
+gem 'mysql2', "~> 0.3.0"
 gem 'rails', '4.2.4'
 gem 'rake'
 gem 'sdoc', '~> 0.4.0', group: :doc
