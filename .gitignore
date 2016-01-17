@@ -19,3 +19,5 @@
 vendor/bundle
 /public/spree/products
 /vendor/bundle
+
+*.trash

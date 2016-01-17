@@ -9,6 +9,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'jquery-rails'
 gem 'mysql2'
 gem 'rails', '4.2.4'
+gem 'rake'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'sass-rails', '~> 5.0'
 gem 'solidus'
